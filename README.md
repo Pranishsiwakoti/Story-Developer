@@ -9,3 +9,5 @@ Hack a thon
         story.html
     app.py
     stories.py
+    gemini_api.py
+    .env
